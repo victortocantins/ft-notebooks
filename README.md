@@ -28,7 +28,7 @@ Os notebooks podem ser executados online pelo [Binder](#Binder), or [fazendo o d
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victortocantins/ft-notebooks/main)
 
 
-1. Lance o binder clicando logo acima ou click no link: https://mybinder.org/v2/gh/geoscixyz/geosci-labs/master?filepath=notebooks%2Findex.ipynb.
+1. Lance o binder clicando logo acima ou click no link: https://notebooks.gesis.org/binder/jupyter/user/victortocantins-ft-notebooks-6qai9j8y/tree.
    Isto pode tomar alguns minutos, seja paciente...
 
 2. Escolha o notebook de interesse do contúdo
