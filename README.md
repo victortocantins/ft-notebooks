@@ -25,7 +25,7 @@ Os notebooks podem ser executados online pelo [Binder](#Binder), or [fazendo o d
 
 ### Binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoscixyz/geosci-labs/master?filepath=notebooks%2Findex.ipyn)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victortocantins/ft-notebooks/main)
 
 1. Lance o binder clicando logo acima ou click no link: https://mybinder.org/v2/gh/geoscixyz/geosci-labs/master?filepath=notebooks%2Findex.ipynb.
    Isto pode tomar alguns minutos, seja paciente...
