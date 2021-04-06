@@ -1,24 +1,19 @@
 # ft-notebooks
 
-# GeoSci Labs
-
 [![binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoscixyz/geosci-labs/master?filepath=notebooks%2Findex.ipynb)
 [![pypi](https://img.shields.io/pypi/v/geoscilabs.svg)](https://pypi.python.org/pypi/geoscilabs)
 [![License](https://img.shields.io/github/license/geoscixyz/geosci-labs.svg)](https://github.com/geoscixyz/geosci-labs/blob/master/LICENSE)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
 
 Este é um repositório de código usado para alimentar os blocos de notas e exemplos interativos para
-disciplna Física da Terra
-
-This is a repository of code used to power the notebooks and interactive examples for https://em.geosci.xyz and https://gpg.geosci.xyz.
-
-The examples are based on code available in [SimPEG](http://simpeg.xyz).
+disciplina Física da Terra. Os notebooks podem usar pacotes desenvolvidos pelo autor ou por outros desenvolvedores como
+como os projetos https://gpg.geosci.xyz e https://em.geosci.xyz.
 
 ## Por que?
 
 As visualizações interativas são uma maneira poderosa e natural de interpretar as equações matemáticas. 
-O objetivo deste repositório é fornecer os códigos que podem ser conectado a notebooks Jupyter para que possamos usar com as equações relevantes
-ao estudo dos fenômenos do estudo da Física da Terra
+O objetivo deste repositório é fornecer os códigos que podem ser conectado a notebooks Jupyter usados com as equações relevantes
+ao estudo dos fenômenos da Física da Terra
 
 ## Alcance
 
