@@ -1,0 +1,23 @@
+name: ft-notebooks
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - Pillow
+  - ipywidgets>=0.6.0
+  - requests
+  - mkl
+  - pymatsolver
+  - discretize>=0.4.14
+  - SimPEG>=0.14.1
+  - empymod>=2.0.0
+  - cvxopt
+  - pip
+  - pip:
+    - deepdish
+    - git+https://github.com/geoscixyz/geosci-labs
