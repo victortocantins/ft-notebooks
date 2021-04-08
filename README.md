@@ -25,13 +25,13 @@ Os notebooks podem ser executados online pelo [Binder](#Binder), or [fazendo o d
 
 ### Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victortocantins/ft-notebooks/main)
+[![Binder](https://mybinder.org/badge_logo.svg)]( https://mybinder.org/v2/gh/victortocantins/ft-notebooks/main?filepath=notebooks%2Findex.ipynb)
 
 
-1. Lance o binder clicando logo acima ou click no link: https://notebooks.gesis.org/binder/jupyter/user/victortocantins-ft-notebooks-6qai9j8y/tree.
+1. Lance o binder clicando logo acima ou click no link:  https://mybinder.org/v2/gh/victortocantins/ft-notebooks/main?filepath=notebooks%2Findex.ipynb.
    Isto pode tomar alguns minutos, seja paciente...
 
-2. Escolha o notebook de interesse do contúdo
+2. Escolha o notebook de interesse do conteúdo.
 
 3. [Execute o notebook Jupyter](#Running-the-notebooks)
 
